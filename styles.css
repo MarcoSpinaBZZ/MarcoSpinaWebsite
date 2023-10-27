@@ -44,7 +44,15 @@
     margin-top: 10px;
 }
 
-.footer{
+.footer {
     background: #FFF;
     text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-images a[href="https://github.com/MarcoSpinaBZZ"] img {
+    width: 50px;
+    height: auto;
 }
